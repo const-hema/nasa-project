@@ -1,0 +1,144 @@
+8000
+8000
+8000
+8000
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
+::1 - - [24/Jun/2024:14:29:03 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:03 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:03 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:09 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:14 +0000] "POST /launches HTTP/1.1" 201 205 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:14 +0000] "GET /launches HTTP/1.1" 200 406 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:46 +0000] "POST /launches HTTP/1.1" 201 205 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:46 +0000] "GET /launches HTTP/1.1" 200 612 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:51 +0000] "DELETE /launches/101 HTTP/1.1" 200 207 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:29:51 +0000] "GET /launches HTTP/1.1" 200 614 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:37 +0000] "POST /launches HTTP/1.1" 201 196 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:38 +0000] "GET /launches HTTP/1.1" 200 811 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:44 +0000] "POST /launches HTTP/1.1" 201 197 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:45 +0000] "GET /launches HTTP/1.1" 200 1009 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:49 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:49 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:49 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:51 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:56 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:57 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:31:57 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:01 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:03 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:03 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:04 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:05 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:09 +0000] "POST /launches HTTP/1.1" 201 196 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:09 +0000] "GET /launches HTTP/1.1" 200 1206 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:12 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:13 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:13 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:16 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:16 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:16 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:17 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:17 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:17 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:32:17 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:15 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:16 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:16 +0000] "GET /static/js/main.11aec212.js.map HTTP/1.1" 200 1673763 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:18 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:22 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:22 +0000] "GET /launches HTTP/1.1" 200 396 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:25 +0000] "POST /launches HTTP/1.1" 201 197 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [24/Jun/2024:14:34:25 +0000] "GET /launches HTTP/1.1" 200 594 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+8000
+8 habitable plantes found!
+Litening on port 8000...
+8000
+8000
+8000
+8000
+8 habitable plantes found!
+8 habitable plantes found!
+8 habitable plantes found!
+8 habitable plantes found!
+Litening on port 8000...
+Litening on port 8000...
+Litening on port 8000...
+Litening on port 8000...
+::1 - - [25/Jun/2024:04:11:25 +0000] "GET /upcoming HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:26 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 200 473659 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /launches HTTP/1.1" 200 200 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:28 +0000] "GET /history HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:29 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:04:11:30 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:09 +0000] "GET /upcoming HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:09 +0000] "GET /static/js/main.11aec212.js HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+::1 - - [25/Jun/2024:05:56:10 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+8000
+8000
+8000
+8000
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
+8 habitable plantes found!
+Litening on port 8000...
