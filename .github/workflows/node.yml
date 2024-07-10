@@ -6,11 +6,13 @@ on:
     branches: [main]
 jobs:
   build:
-    env:
-      CI: true #disables test mode
+    env: #enviromental variables for steps actions
+      CI: true #disables test mode for create-react-app
+      MONGO_URL: mongodb://localhost/nasa
     strategy:
       matrix:
-        node-version: [16.x, 20.x]
+        node-version: [16.x, 20.x] #creates 2 build jobs that run in parallel
+        mongodb-version: ["7.0"]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -18,6 +20,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{matrix.node-version}}
+      - name: Use MongoDB from Github actions
+        uses: supercharge/mongodb-github-action@1.11.0 #Start a MongoDB server for the current job
+        with:
+          mongodb-version: ${{matrix.mongodb-version}}
       - run: npm install
       - run: npm run build --prefix client
       - run: npm test
